@@ -7,4 +7,5 @@
 # Instructions
 
 - Boil water
+- Defrost peas
 
